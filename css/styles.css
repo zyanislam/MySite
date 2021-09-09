@@ -42,5 +42,6 @@ p {
   color: azure;
   font-size: 1.2rem;
   font-family: 'Pixel', sans-serif;
+  margin-top: 12px;
   padding-bottom: 10px;
 }
