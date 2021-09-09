@@ -17,8 +17,7 @@
 }
 
 .top-container{
-  position: relative;
-  padding-top: 100px;
+  padding-top: 90px;
 }
 
 body {
@@ -29,12 +28,13 @@ body {
 
 h1 {
   color: azure;
-  position: relative;
-  margin: 0 auto 0 auto;
-  width: 8%;
+  font-size: 3.2rem;
+  margin-top: 190px;
   font-family: 'AC', sans-serif;
 }
 
 p {
   color: azure;
+  font-size: 1.2rem;
+  font-family: sans-serif;
 }
