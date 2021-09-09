@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.bg {
+  background: url(../Images/City.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 1300px;
+  width: 100%;
+}
+
+.top-container{
+  position: relative;
+  padding-top: 100px;
+}
+
+body {
+  background-color: powderblue;
+  margin: 0;
+  text-align: center;
+  font-family: sans-serif; 
+}
+
+h1 {
+  color: azure;
+  position: relative;
+  margin: 0 auto 0 auto;
+  width: 8%;
+}
+
+p {
+  color: azure;
+}
